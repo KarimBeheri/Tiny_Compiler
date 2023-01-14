@@ -1,1 +1,1 @@
-[2022-2023] JASON_Compiler_Template
+[2022-2023] Tiny_Compiler_Template
